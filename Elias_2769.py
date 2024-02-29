@@ -78,11 +78,33 @@ Z = '\033[1;33m'
 head = {'Host': 'adsmanager.facebook.com', 'sec-ch-ua': '"Chromium";v="107", "Not=A?Brand";v="24"', 'viewport-width': '980'}
 logo = """       \033[1;37m                                             
 
-███████ ██      ██   █████  ███████     
-██       ██      ██  ██   ██ ██          
-█████   ██      ██  ███████ ███████     
-██       ██      ██  ██   ██       ██     
-███████ ███████ ██ ██   ██ ███████     
+
+                                                                                                                
+                                                                                                                
+EEEEEEEEEEEEEEEEEEEEEELLLLLLLLLLL             IIIIIIIIII               AAA                 SSSSSSSSSSSSSSS      
+E::::::::::::::::::::EL:::::::::L             I::::::::I              A:::A              SS:::::::::::::::S     
+E::::::::::::::::::::EL:::::::::L             I::::::::I             A:::::A            S:::::SSSSSS::::::S     
+EE::::::EEEEEEEEE::::ELL:::::::LL             II::::::II            A:::::::A           S:::::S     SSSSSSS     
+  E:::::E       EEEEEE  L:::::L                 I::::I             A:::::::::A          S:::::S                 
+  E:::::E               L:::::L                 I::::I            A:::::A:::::A         S:::::S                 
+  E::::::EEEEEEEEEE     L:::::L                 I::::I           A:::::A A:::::A         S::::SSSS              
+  E:::::::::::::::E     L:::::L                 I::::I          A:::::A   A:::::A         SS::::::SSSSS         
+  E:::::::::::::::E     L:::::L                 I::::I         A:::::A     A:::::A          SSS::::::::SS       
+  E::::::EEEEEEEEEE     L:::::L                 I::::I        A:::::AAAAAAAAA:::::A            SSSSSS::::S      
+  E:::::E               L:::::L                 I::::I       A:::::::::::::::::::::A                S:::::S     
+  E:::::E       EEEEEE  L:::::L         LLLLLL  I::::I      A:::::AAAAAAAAAAAAA:::::A               S:::::S     
+EE::::::EEEEEEEE:::::ELL:::::::LLLLLLLLL:::::LII::::::II   A:::::A             A:::::A  SSSSSSS     S:::::S     
+E::::::::::::::::::::EL::::::::::::::::::::::LI::::::::I  A:::::A               A:::::A S::::::SSSSSS:::::S     
+E::::::::::::::::::::EL::::::::::::::::::::::LI::::::::I A:::::A                 A:::::AS:::::::::::::::SS      
+EEEEEEEEEEEEEEEEEEEEEELLLLLLLLLLLLLLLLLLLLLLLLIIIIIIIIIIAAAAAAA                   AAAAAAASSSSSSSSSSSSSSS        
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+
                                        
                                        
 
